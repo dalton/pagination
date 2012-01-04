@@ -14,9 +14,10 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/dalton/pagination/'
 
   s.rdoc_options = ['--main', 'README.md', '--charset=UTF-8']
-  s.extra_rdoc_files = ['README.md', 'LICENSE']
+  #s.extra_rdoc_files = ['README.md', 'LICENSE']
 
-  s.files = Dir['Rakefile', '{bin,lib,test,spec}/**/*', 'README*', 'LICENSE*']
+  #s.files = Dir['Rakefile', '{bin,lib,test,spec}/**/*', 'README*', 'LICENSE*']
+  s.files = Dir['{bin,lib,test,spec}/**/*']
 
   # include only files in version control
   git_dir = File.expand_path('../.git', __FILE__)
