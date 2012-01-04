@@ -32,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pagination.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pagination.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/pagination.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="41" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+            <state line="30" column="46" selection-start="719" selection-end="719" vertical-scroll-proportion="0.5803453">
               <folding />
             </state>
           </provider>
@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pagination.gemspec" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="pagination.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagination.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="42" selection-start="749" selection-end="749" vertical-scroll-proportion="0.48783785">
+            <state line="19" column="42" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,10 +79,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/lib/pagination.rb" />
         <option value="$PROJECT_DIR$/spec/pagination/pagination_spec.rb" />
         <option value="$PROJECT_DIR$/lib/pagination/version.rb" />
         <option value="$PROJECT_DIR$/pagination.gemspec" />
+        <option value="$PROJECT_DIR$/lib/pagination.rb" />
       </list>
     </option>
   </component>
@@ -374,9 +374,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pagination.rb">
+    <entry file="file://$PROJECT_DIR$/lib/pagination/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="41" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+        <state line="6" column="41" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagination.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="42" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -388,16 +395,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pagination/version.rb">
+    <entry file="file://$PROJECT_DIR$/lib/pagination.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="41" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pagination.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="42" selection-start="749" selection-end="749" vertical-scroll-proportion="0.48783785">
+        <state line="30" column="46" selection-start="719" selection-end="719" vertical-scroll-proportion="0.5803453">
           <folding />
         </state>
       </provider>
